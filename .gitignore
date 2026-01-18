@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+.cache/
+.svelte-kit/*
+
+
+
+# Playwright
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "3b2b8e7a-96a7-4ccf-aba5-5727a49797d4",
+    "email": "valid_email@test.com",
+    "password": "$2b$10$gi/tmlbHNbtTjk9cAGK9Ee1YluDJ3maIQLpwxEgeGo2oxlYURhane",
+    "confirmationToken": "74b6b9c4565c9be4c3bf82b3ea8d9704dc788f617b154bfcff4661494186054c",
+    "verified": true,
+    "createdAt": "2026-01-16T13:37:06.671Z"
+  }
+]
