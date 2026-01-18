@@ -37,7 +37,7 @@ const config: PlaywrightTestConfig = {
 
 
     // NEW BASE URL (single source of truth for your tests)
-    baseURL: "http://localhost:5175",
+    baseURL: "http://localhost:5176",
 
 
     /* Collect trace when retrying the failed test. See https://playwright.dev/docs/trace-viewer */

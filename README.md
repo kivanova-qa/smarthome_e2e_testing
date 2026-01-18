@@ -67,7 +67,7 @@ A modern, full-stack web application for managing smart home lights with user au
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd testthisplease
+cd smarthome_e2e_testing
 ```
 
 2. Install dependencies:
@@ -81,7 +81,7 @@ npm run dev
 ```
 
 The application will be available at:
-- Frontend: http://localhost:5175
+- Frontend: http://localhost:5176
 - Backend API: http://localhost:3000
 
 ## 📝 Usage Guide

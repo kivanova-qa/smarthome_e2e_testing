@@ -42,7 +42,7 @@ test.describe('Authentication & User Management', () => {
         await expect(loginPage.fillAllFieldsAlert).toBeVisible();
     });
 
-    test.only('[02.4] User Login - unverified account is rejected', async ({ page }) => {
+    test('[02.4] User Login - unverified account is rejected', async ({ page }) => {
 
         // 1) Create random, unique user (NOT verified)
         const registrationData = createRandomRegistrationData();
